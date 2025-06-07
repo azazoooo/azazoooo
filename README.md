@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Пишу+код+с+удовольствием;Люблю+автоматизацию;Открыт+новым+возможностям" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/azazoooo/azazoooo/assets/your-animated-banner" alt="Banner" width="80%" />
-</p>
+
 
 ---
 
