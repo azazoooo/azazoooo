@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я azazoooo</h1>
+<h1 align="center">Привет, я azazoooo 👋</h1>
 <h3 align="center">Разработчик, исследователь и просто увлечённый человек</h3>
 
 <p align="center">
@@ -7,14 +7,20 @@
 
 ---
 
-### 🧠 Обо мне
+## 🧠 Обо мне
 
-- 🔭 Сейчас работаю над Jarvis
-- 🌱 Изучаю: Python
+- 🔭 Сейчас работаю над **Jarvis**
+- 🌱 Изучаю: **Python**
+- 💡 Интересуюсь автоматизацией, backend-разработкой и умными ассистентами
+- ⚙️ Люблю пробовать новые технологии и подходы
+- 📫 Связаться: [Telegram](https://t.me/marlenius) 
 
-### 🛠️ Технологии и инструменты
 
-<p align="left">
+---
+
+## 🛠️ Мой стек
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -24,14 +30,16 @@
 
 ---
 
-### 📈 Статистика GitHub
+## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azazoooo&show_icons=true&theme=radical" alt="azazoooo stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azazoooo&theme=radical" alt="azazoooo streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azazoooo&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azazoooo&theme=radical" height="180"/>
 </p>
 
 ---
 
-_Спасибо, что заглянули! ⭐️ Если вам понравились мои проекты — не забудьте поставить звёздочку!_
+<p align="center">
+  Спасибо, что заглянули! ⭐  
+  <br>Если вам понравились мои проекты — не забудьте поставить звёздочку!
+</p>
